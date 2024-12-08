@@ -4,7 +4,7 @@
 
 -------------------------------------------
 
-##### Lenguajes que uso/aprendo: 
+- Lenguajes que uso/aprendo: 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
