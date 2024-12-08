@@ -17,3 +17,8 @@ Por ahora solo uso esta plataforma para formarme y como almacenamiento, si te si
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=isagudeg&show_icons=true&theme=tokyonight)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isagudeg&layout=compact&theme=radical&count_private=true&token=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)
+
+
