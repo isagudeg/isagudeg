@@ -19,6 +19,3 @@ Por ahora solo uso esta plataforma para formarme y como almacenamiento, si te si
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isagudeg&layout=compact&theme=radical&count_private=true&token=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)
-
-
